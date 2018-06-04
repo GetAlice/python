@@ -1,23 +1,3 @@
-'''
-#num = int(input("请选择:"))
-for num in range(1,4):
-    if num == 1:
-        name = input("1:请输入名字：")
-
-    elif num == 2:
-        job = input("2:请输入职位：")
-
-    elif num == 3:
-        qqnum = input("3:请输入qq号：")
-
-    else:
-        print("1-3")
-print("#"*20)
-print("名字：" + name)
-print("职位:"+job)
-print("qq号:" + qqnum)
-'''
-
 cookie = 'anonymid=jfgfivcbazwm36; ' \
          '_r01_=1; ' \
          'ln_uact=18689393892; ' \
